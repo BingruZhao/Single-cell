@@ -1,1 +1,1 @@
-# Sing-cell-transcriptomic-of-sheep-ovarian
+# Sing-cell transcriptomic of sheep ovarian
